@@ -63,3 +63,5 @@ secrets/
 
 # Local Netlify folder
 .netlify
+
+.impeccable/
