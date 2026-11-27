@@ -59,6 +59,6 @@ Releasing (no Play account; the signed APK is shared through GitHub Releases):
 - **Privacy:** add no network SDKs and no logging of receipt or notification content without a Play Data safety review. Android backup and device transfer are disabled on purpose (`allowBackup="false"` plus `data_extraction_rules.xml`).
 - **Currency** defaults to PHP. Money parsing treats only a comma as a thousands separator.
 
-Git: work on a branch, open a PR and merge to `main` (remote `bitwindamountains/receipt-organizer`). GitHub Actions has not run on this repo yet, so run `npm run check` locally before merging.
+Git: work on a branch, open a PR and merge to `main` (remote `bitwindamountains/starlog`). GitHub Actions has not run on this repo yet, so run `npm run check` locally before merging.
 
 Status, what's next and open release blockers: `docs/dev-notes/PRODUCTION_STATUS.md` (start with "Where things stand"). Scope and release gates: `docs/dev-notes/PRODUCTION_PLAN.md`.
