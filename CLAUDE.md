@@ -61,4 +61,4 @@ Releasing (no Play account; the signed APK is shared through GitHub Releases):
 
 Git: work on a branch, open a PR and merge to `main` (remote `bitwindamountains/receipt-organizer`). GitHub Actions has not run on this repo yet, so run `npm run check` locally before merging.
 
-Status, what's next and open release blockers: `docs/PRODUCTION_STATUS.md` (start with "Where things stand"). Scope and release gates: `PRODUCTION_PLAN.md`.
+Status, what's next and open release blockers: `docs/dev-notes/PRODUCTION_STATUS.md` (start with "Where things stand"). Scope and release gates: `docs/dev-notes/PRODUCTION_PLAN.md`.
