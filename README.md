@@ -1,5 +1,7 @@
 # Starlog
 
+[![CI](https://github.com/bitwindamountains/starlog/actions/workflows/ci.yml/badge.svg)](https://github.com/bitwindamountains/starlog/actions/workflows/ci.yml)
+
 An offline-first receipt and screenshot organizer for Android and the web. Starlog reads receipts on the device, turns GCash, Maya and bank payment notifications into receipts, and shows where the money went. No account, and nothing is uploaded.
 
 **[Try the web version →](https://starlog-receipts.netlify.app)** Choose **Explore with demo receipts** to look around with sample data.
